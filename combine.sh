@@ -1,4 +1,5 @@
 #add header to chromosome data
+#last modified: 10th dec
 echo "starting combaning script"
 for file in human_chr*.txt
 do
